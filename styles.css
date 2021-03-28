@@ -3,11 +3,21 @@
     width: 70%;
 }
 
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
 .indented {
      text-indent: 2.0em;
 }
 
 body {
+    display: block;
+    margin: 8px;
     text-align: center;
     font-size: large;
 }
